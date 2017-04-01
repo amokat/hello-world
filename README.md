@@ -1,2 +1,3 @@
 # hello-world
 Introductory project
+My name is amokat. I am a comput0r haxxor like the girl in Jurrassic Park. Ya'll should probably fear me by now...
